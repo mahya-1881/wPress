@@ -1,2 +1,0 @@
-# wPress
-test wordpress
